@@ -1,3 +1,4 @@
+//Дано дерево. Удалить четные элементы
 #include <iostream>
 #include <string>
 using namespace std;
