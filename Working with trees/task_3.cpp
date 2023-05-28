@@ -1,4 +1,4 @@
-
+// Дано идеально сбалансированное дерево. Вывести все листья.
 #include <iostream>
 #include <cmath>
 #include <queue>
