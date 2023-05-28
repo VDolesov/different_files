@@ -1,4 +1,4 @@
-
+// Дано идеально сбалансированное дерево, определить глубину узла X
 #include <iostream>
 #include <cmath>
 #include <queue>
