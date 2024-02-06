@@ -1,0 +1,6 @@
+C:\Users\val_d\Desktop\Project17\Project4\Project4\Debug\Project4.vcxproj.AssemblyReference.cache
+C:\Users\val_d\Desktop\Project17\Project4\Project4\Debug\Project4.MyForm.resources
+C:\Users\val_d\Desktop\Project17\Project4\Project4\Debug\Project4.vcxproj.GenerateResource.cache
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\Debug\Project4.vcxproj.AssemblyReference.cache
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\Debug\Project4.MyForm.resources
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\Debug\Project4.vcxproj.GenerateResource.cache

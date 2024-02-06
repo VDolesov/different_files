@@ -1,0 +1,24 @@
+﻿  MyForm.cpp
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\Header.h(145,24): warning C4244: return: преобразование "time_t" в "int", возможна потеря данных
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(391,20): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(407,20): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(438,21): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(454,21): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(484,21): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(500,21): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(530,21): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(547,21): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(574,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(584,99): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(391): warning C4700: использована неинициализированная локальная переменная "suma_11"
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(407): warning C4700: использована неинициализированная локальная переменная "suma_12"
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(438): warning C4700: использована неинициализированная локальная переменная "suma_21"
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(454): warning C4700: использована неинициализированная локальная переменная "suma_22"
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(484): warning C4700: использована неинициализированная локальная переменная "suma_31"
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(500): warning C4700: использована неинициализированная локальная переменная "suma_32"
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(530): warning C4700: использована неинициализированная локальная переменная "suma_41"
+C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Project4\MyForm.h(547): warning C4700: использована неинициализированная локальная переменная "suma_42"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project4.vcxproj -> C:\Users\val_d\Desktop\new_papka\different_files\Home work for University\Third semester\OOP\C++\№4\c++_4\Project4\Debug\Project4.exe
